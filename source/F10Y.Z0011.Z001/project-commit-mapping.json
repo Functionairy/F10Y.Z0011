@@ -1,5 +1,13 @@
 [
   {
+    "Commit": "ce2b77f7078007acd202b032d2ed99a5d3ce26af",
+    "Version": "1.3.0"
+  },
+  {
+    "Commit": "f446eb666d14a648b3a65f1cac5c797fc3c251ec",
+    "Version": "1.2.0"
+  },
+  {
     "Commit": "2a27f23a3117b44c8c1d760bf9159a9bc3714595",
     "Version": "1.1.0"
   }
