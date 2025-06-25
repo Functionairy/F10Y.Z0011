@@ -6,6 +6,12 @@ using F10Y.T0011;
 
 namespace F10Y.Z0011.Z001
 {
+    /// <summary>
+    /// Simple path and path-part values.
+    /// </summary>
+    /// <remarks>
+    /// Example use: values for testing path parsing code.
+    /// </remarks>
     [ValuesMarker]
     public partial interface IPaths
     {
